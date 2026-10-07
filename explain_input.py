@@ -1,0 +1,1 @@
+print("The input() function takes user input from the terminal as a string.")
