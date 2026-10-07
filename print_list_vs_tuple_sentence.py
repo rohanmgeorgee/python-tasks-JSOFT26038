@@ -1,0 +1,3 @@
+# Program to print the differences between List and Tuple
+
+print("The main difference between a list and a tuple is that a list is mutable, meaning its items can be changed, added, or removed after creation using square brackets []. In contrast, a tuple is immutable, meaning its values cannot be altered once created using parentheses (). Additionally, tuples are faster and use less memory compared to lists.")
